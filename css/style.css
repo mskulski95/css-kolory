@@ -1,0 +1,19 @@
+header{
+    background-color: #faebd6;
+}
+
+h2
+{
+    font-size: 70px;
+    color: #ff0000;
+
+    }
+h2 + p{
+    
+    color: #a42423;
+
+}
+
+ p{
+     font-size: 30px;
+ }    
